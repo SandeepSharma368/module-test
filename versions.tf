@@ -7,6 +7,8 @@ terraform {
   }
 }
 
+#ignore
+
 # Configure the AWS Provider
 provider "aws" {
   access_key = "AKIARWFXLG6LYVG7V5BA"
